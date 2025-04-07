@@ -27,6 +27,7 @@ Outside of academics, I really enjoy **adventure sports**. I am a certified **ad
 ```python
 def hello():
     print("Hello, GitHub Pages!")
+```
 
 [Link to the photo → IMG_1291.jpeg](IMG_1291.jpeg)  
 *(Relative link to image as a file)*
